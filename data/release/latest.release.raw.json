@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3041853,
       "digest": "sha256:e0d69233b9cf95b59e9d6b332abe869fb54e503e598768d251b930d2e535b902",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2025-07-01T07:37:59Z",
       "updated_at": "2025-07-01T07:37:59Z",
       "browser_download_url": "https://github.com/ashish0kumar/mufetch/releases/download/v0.1.1/mufetch_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3186071,
       "digest": "sha256:ff1d17561b6bf71e754864858dccb2ce5e40b9cf2f71af750adb980807df2fb0",
-      "download_count": 295,
+      "download_count": 297,
       "created_at": "2025-07-01T07:37:58Z",
       "updated_at": "2025-07-01T07:37:58Z",
       "browser_download_url": "https://github.com/ashish0kumar/mufetch/releases/download/v0.1.1/mufetch_linux_x86_64.tar.gz"
