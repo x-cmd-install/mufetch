@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2933700,
       "digest": "sha256:585f7689fa0445ef37e9141cf68f01e88c7358afc292381ca98dd6830958e7e3",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2025-07-01T07:37:58Z",
       "updated_at": "2025-07-01T07:37:58Z",
       "browser_download_url": "https://github.com/ashish0kumar/mufetch/releases/download/v0.1.1/mufetch_linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3186071,
       "digest": "sha256:ff1d17561b6bf71e754864858dccb2ce5e40b9cf2f71af750adb980807df2fb0",
-      "download_count": 328,
+      "download_count": 330,
       "created_at": "2025-07-01T07:37:58Z",
       "updated_at": "2025-07-01T07:37:58Z",
       "browser_download_url": "https://github.com/ashish0kumar/mufetch/releases/download/v0.1.1/mufetch_linux_x86_64.tar.gz"
